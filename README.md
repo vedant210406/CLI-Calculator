@@ -1,35 +1,62 @@
-# CLI Calculator
+# 🧮 CLI Calculator
 
-A simple Command Line Interface (CLI) Calculator built using Node.js and Inquirer.
+A simple Command Line Interface (CLI) Calculator built using **Node.js** and **Inquirer**.
 
-## Features
+## ✨ Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Interactive CLI
-- Repeat calculation
-- Arrow key menu
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 📋 Interactive CLI Menu
+- 🔄 Repeat Calculation Option
+- ⌨️ Arrow Key Navigation
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Node.js
-- JavaScript
+- JavaScript (ES6)
 - Inquirer
+- npm
 
-## Installation
+## 📂 Project Structure
+
+```
+CLI-Calculator/
+│── .gitignore
+│── README.md
+│── index.js
+│── package.json
+└── package-lock.json
+```
+
+## 🚀 Installation
 
 ```bash
 npm install
 ```
 
-## Run
+## ▶️ Run the Project
 
 ```bash
 node index.js
 ```
 
-## Author
+## 📸 Sample Output
 
-Vedant Bhele
+```text
+==================================
+     Welcome to CLI Calculator
+        Created by Vedant
+==================================
+
+Enter first number: 20
+Enter second number: 10
+Choose your operation: +
+
+Your Answer is 20 + 10 = 30
+```
+
+## 👨‍💻 Author
+
+**Vedant Bhele**
