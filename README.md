@@ -1,6 +1,6 @@
 # 🧮 CLI Calculator
 
-A simple Command Line Interface (CLI) Calculator built Using **Node.js** and **Inquirer**.
+A Simple Command Line Interface (CLI) Calculator built Using **Node.js** and **Inquirer**.
 
 ## ✨ Features
 
